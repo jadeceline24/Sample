@@ -3,3 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+body {
+  background-color: rgb(163, 192, 248);
+}
+h1 {
+  color: red;
+}
